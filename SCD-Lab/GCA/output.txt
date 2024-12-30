@@ -1,0 +1,21 @@
+There are a few offline AI models that work well for coding, but they are not as powerful as online AI models. One of the best offline AI models for coding is **Codex**, which is developed by OpenAI. Codex is a large language model that has been trained on a massive dataset of code. It can understand natural language descriptions of code and generate code in response.
+
+Here are some of the things that Codex can do:
+
+* Generate code from natural language descriptions
+* Translate code between different programming languages
+* Refactor code to improve its style and efficiency
+* Fix bugs in code
+* Complete code snippets
+
+Codex is available as an API that you can integrate into your own applications. You can also use Codex through the GitHub Copilot extension, which provides real-time coding suggestions in your editor.
+
+Another good offline AI model for coding is **TabNine**, which is developed by the company of the same name. TabNine is a code completion tool that uses machine learning to predict the next word or words that you are going to type. TabNine can be used with a variety of different programming languages, and it can be integrated into your editor or IDE.
+
+TabNine is not as powerful as Codex, but it is much faster and more lightweight. This makes it a good option for developers who need real-time coding suggestions without sacrificing performance.
+
+Both Codex and TabNine are available as paid services. However, there are also a few open-source offline AI models for coding that you can use for free. One of the most popular open-source offline AI models for coding is **Kite**, which is developed by the company of the same name. Kite is a code completion tool that uses machine learning to predict the next word or words that you are going to type. Kite can be used with a variety of different programming languages, and it can be integrated into your editor or IDE.
+
+Kite is not as powerful as Codex or TabNine, but it is free and open-source. This makes it a good option for developers who are on a budget or who want to contribute to the development of open-source software.
+
+I hope this information is helpful. Please let me know if you have any other questions.
